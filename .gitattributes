@@ -1,3 +1,4 @@
 *.pkl filter=lfs diff=lfs merge=lfs -text
 *.pt filter=lfs diff=lfs merge=lfs -text
 external/resume-bias/data/*.csv filter=lfs diff=lfs merge=lfs -text
+data/raw/jobs_soc/*.jsonl filter=lfs diff=lfs merge=lfs -text
