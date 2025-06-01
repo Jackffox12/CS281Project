@@ -1,0 +1,3 @@
+[submodule "external/resume-bias"]
+	path = external/resume-bias
+	url = https://github.com/kyrawilson/Resume-Screening-Bias
