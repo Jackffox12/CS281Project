@@ -4,3 +4,4 @@ external/resume-bias/data/*.csv filter=lfs diff=lfs merge=lfs -text
 data/raw/jobs_soc/*.jsonl filter=lfs diff=lfs merge=lfs -text
 data/raw/kaggle_jobs/job_description_dataset.csv filter=lfs diff=lfs merge=lfs -text
 data/raw/kaggle_resumes/*.csv filter=lfs diff=lfs merge=lfs -text
+data/processed/expanded_resumes.csv filter=lfs diff=lfs merge=lfs -text
